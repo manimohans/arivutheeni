@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "985672957589",
+    "firebase_url": "https://arivutheeni-1a130.firebaseio.com",
+    "project_id": "arivutheeni-1a130",
+    "storage_bucket": "arivutheeni-1a130.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985672957589:android:d2d6e60659aa25e2",
+        "android_client_info": {
+          "package_name": "com.arivutheeni.arivutheeni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985672957589-evpc7rpbfv2u6nlhb3m71tt9v6pjocun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGUs_7WDyraDikfKEPj7Em_BXVbPZKM7M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
